@@ -146,7 +146,7 @@
         "addresses": [
           {
             "type": "InternalIP",
-            "address": "10.128.0.2"
+            "address": "192.168.49.2"
           },
           {
             "type": "ExternalIP",
@@ -420,7 +420,7 @@
         "addresses": [
           {
             "type": "InternalIP",
-            "address": "10.128.0.3"
+            "address": "192.168.49.2"
           },
           {
             "type": "ExternalIP",
@@ -723,7 +723,7 @@
         "addresses": [
           {
             "type": "InternalIP",
-            "address": "10.128.0.4"
+            "address": "192.168.49.2"
           },
           {
             "type": "ExternalIP",
